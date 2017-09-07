@@ -1,0 +1,69 @@
+{
+   "pages": [
+      "pages/index/index",
+      "pages/personal/personal",
+      "pages/shop/shop",
+      "pages/shop_store/shop_store",
+      "pages/cart/cart",
+      "pages/dingdan/dingdan",
+      "pages/tuihuo/tuihuo",
+      "pages/screen/screen",
+      "pages/pay/pay",
+      "pages/detail/detail",
+      "pages/search/search",
+      "pages/classify/classify",
+      "pages/product/product",
+      "pages/ritual/ritual",
+      "pages/user/user",
+      "pages/address/address",
+      "pages/address/user-address/user-address",
+      "pages/category/category",
+      "pages/logs/logs",
+      "pages/video/video",
+      "pages/vid/vid"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#ffffff",
+      "navigationBarTitleText": "贝立凯商城",
+      "navigationBarTextStyle": "black"
+   },
+   "tabBar": {
+      "color": "#6e6d6b",
+      "selectedColor": "#000000",
+      "borderStyle": "#ccc",
+      "backgroundColor": "#f8f8f8",
+      "list": [
+         {
+            "pagePath": "pages/index/index",
+            "iconPath": "images/shou.png",
+            "selectedIconPath": "images/souu.png",
+            "text": "首页"
+         },
+         {
+            "pagePath": "pages/shop/shop",
+            "iconPath": "images/shop.png",
+            "selectedIconPath": "images/shops.png",
+            "text": "店铺"
+         },
+         {
+            "pagePath": "pages/category/category",
+            "iconPath": "images/fei.png",
+            "selectedIconPath": "images/feli.png",
+            "text": "商品分类"
+         },
+         {
+            "pagePath": "pages/cart/cart",
+            "iconPath": "images/carts.png",
+            "selectedIconPath": "images/cart.png",
+            "text": "购物车"
+         },
+         {
+            "pagePath": "pages/user/user",
+            "iconPath": "images/hui.png",
+            "selectedIconPath": "images/huiyuan.png",
+            "text": "我的"
+         }
+      ]
+   }
+}

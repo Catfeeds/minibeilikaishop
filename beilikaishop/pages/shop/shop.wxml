@@ -1,0 +1,32 @@
+<view class="shop" wx:for="{{shopList}}" wx:key="id"  data-id="{{item.id}}">
+
+
+<!-- 1 -->
+  <view class="fei">
+    <image src="{{item.logo}}" wx:if="{{item.logo}}"></image>
+    <image src="../../images/nopic.png" wx:else></image>
+  </view>
+
+<!-- 2 -->
+  <view class="gongsi">
+    <view style="font-size:32rpx;">{{item.name}}</view>
+    <view style="color:gray;" wx:if="{{item.uname}}">联系人
+    ：{{item.uname}}</view>
+        <view style="color:gray;" wx:if="{{item.tel}}">Tel：{{item.tel}}</view>
+            <view style="color:gray;" wx:if="{{item.quyu}}">地址：{{item.sheng}}{{item.quyu}}</view>
+  </view>
+
+
+  <!-- 3 -->
+<view class="shops">
+   <navigator url="../shop_store/shop_store?shopId={{item.id}}">进入店铺</navigator>
+</view>
+
+
+
+</view>
+
+
+
+
+<view class="clear mt10" bindtap="getMore">点击查看更多</view>

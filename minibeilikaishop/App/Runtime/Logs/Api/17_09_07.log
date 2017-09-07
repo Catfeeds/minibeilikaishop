@@ -1,0 +1,970 @@
+[ 2017-09-07T18:12:29+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:12:29+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:12:31+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:15:40+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:15:40+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:15:41+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:09+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:09+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:11+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:25+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:25+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:16:27+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:17:58+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:17:59+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:18:00+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:04+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:05+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:07+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:46+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:46+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:49+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:19:52+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+ERR: 无法加载控制器:Video
+
+[ 2017-09-07T18:20:16+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:20:16+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:20:18+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:20:22+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+ERR: 无法加载控制器:Video
+
+[ 2017-09-07T18:22:01+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:02+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:03+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:06+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+ERR: 无法加载控制器:Video
+
+[ 2017-09-07T18:22:30+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:30+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:30+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:22:33+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+ERR: 无法加载控制器:Video
+
+[ 2017-09-07T18:23:34+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:23:34+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:23:36+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:23:38+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:00+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:11+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:11+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:13+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:16+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:24:22+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:28:05+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:28:06+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:28:09+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:28:14+08:00 ] ::1 /minibeilikaishop/index.php/Api/Video/detail
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:29:22+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:29:23+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:29:24+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:32+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:32+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:35+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:42+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:42+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:30:44+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:14+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:14+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:17+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:23+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:23+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:31:25+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:18+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:18+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:21+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:40+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:40+08:00 ] ::1 /minibeilikaishop/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+
+[ 2017-09-07T18:32:42+08:00 ] ::1 /minibeilikaishop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 40 行.
+NOTIC: [8] Undefined variable: notify_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 55 行.
+NOTIC: [8] Undefined variable: return_url F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 58 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 62 行.
+NOTIC: [8] Undefined index: key F:\phpStudy\WWW\minibeilikaishop\App\Api\Conf\config.php 第 66 行.
+

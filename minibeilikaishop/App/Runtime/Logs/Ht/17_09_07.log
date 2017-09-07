@@ -1,0 +1,1090 @@
+[ 2017-09-07T17:59:11+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-09-07T17:59:12+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-09-07T18:01:08+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined variable: key F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2017-09-07T18:01:18+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0297s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: shop_id F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\LoginController.class.php 第 19 行.
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\LoginController.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2017-09-07T18:01:19+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0107s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2017-09-07T18:01:19+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Index/welcome.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+SQL: SHOW COLUMNS FROM `lr_order` [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `lr_user` [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_order` WHERE ( del=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_user` WHERE ( del=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( del=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_brand` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `price` FROM `lr_order` WHERE ( del=0 AND status>10 AND back!=2 )  [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_order` WHERE ( del=0 AND addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_user` WHERE ( del=0 AND addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( del=0 AND addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_brand` WHERE ( addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_order` WHERE ( del=0 AND status>10 AND back!=2 AND addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\IndexController.class.php 第 58 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( del=0 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( del=0 AND addtime>=1504713600 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_order` WHERE ( del=0 AND back!=2 AND addtime>=1504195200 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_user` WHERE ( del=0 AND addtime>=1504195200 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( del=0 AND addtime>=1504195200 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_brand` WHERE ( addtime>=1504195200 ) LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( addtime>=1504195200 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `price` FROM `lr_order` WHERE ( del=0 AND back!=2 AND addtime>=1504195200 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: thismonthpay F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\IndexController.class.php 第 74 行.
+NOTIC: [2] Invalid argument supplied for foreach() F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\IndexController.class.php 第 74 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2017-09-07T18:02:33+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002173s ]
+ERR: 1146:Table 'minibeilikaishop.lr_video' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_video`
+ERR: 1146:Table 'minibeilikaishop.lr_video' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_video`
+
+[ 2017-09-07T18:04:48+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002640s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0263s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined variable: id F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 71 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 76 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 82 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 88 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 98 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 104 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 105 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 109 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 112 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 119 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 122 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 129 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 138 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 144 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 150 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 156 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.222165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.222271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002199s ]
+
+[ 2017-09-07T18:04:55+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0048s ]
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_video` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_video` WHERE `del` = 0 ORDER BY id desc LIMIT 0,25   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\9805d9858226f6882a3d6ad968a07147.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2017-09-07T18:05:04+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/del.html?id=7
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `lr_video` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: DELETE FROM `lr_video` WHERE ( id=7 ) [ RunTime:0.0037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-09-07T18:05:05+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_video` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_video` WHERE `del` = 0 ORDER BY id desc LIMIT 0,25   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\9805d9858226f6882a3d6ad968a07147.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001537s ]
+
+[ 2017-09-07T18:05:07+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/del.html?id=6
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `lr_video` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: DELETE FROM `lr_video` WHERE ( id=6 ) [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-09-07T18:05:09+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0190s ]
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_video` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `lr_video` WHERE `del` = 0 ORDER BY id desc LIMIT 0,25   [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\9805d9858226f6882a3d6ad968a07147.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-09-07T18:05:12+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/del.html?id=5
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `lr_video` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: DELETE FROM `lr_video` WHERE ( id=5 ) [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-09-07T18:05:13+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001849s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 21 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_video` WHERE `del` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_video` WHERE `del` = 0 ORDER BY id desc LIMIT 0,25   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\9805d9858226f6882a3d6ad968a07147.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-09-07T18:14:37+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0047s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-09-07T18:14:38+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: cid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 35 行.
+NOTIC: [8] Undefined variable: action F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 39 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 57 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 59 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 68 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 74 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-09-07T18:15:00+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/save.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 60 行.
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id` FROM `lr_category` WHERE ( tid=0 AND name="哈哈" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 91 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: tid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 103 行.
+SQL: INSERT INTO `lr_category` (`name`,`bz_1`,`concent`,`sort`,`bz_4`,`addtime`) VALUES ('哈哈','UploadFiles/category/20170907/1504779300779294.jpg','','0','1','1504779300') [ RunTime:0.0385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001042s ]
+
+[ 2017-09-07T18:15:02+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0087s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0011s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004272s ]
+
+[ 2017-09-07T18:15:02+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: cid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 22 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 35 行.
+NOTIC: [8] Undefined variable: action F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 39 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 57 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 59 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 68 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 74 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-09-07T18:15:10+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/save.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0036s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `id` FROM `lr_category` WHERE ( tid=1 AND name="嘻嘻" ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 91 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `lr_category` (`tid`,`name`,`bz_1`,`concent`,`sort`,`addtime`) VALUES ('1','嘻嘻','UploadFiles/category/20170907/1504779310952021.jpg','','0','1504779310') [ RunTime:0.0438s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001463s ]
+
+[ 2017-09-07T18:15:11+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0036s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0054s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-09-07T18:15:12+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0039s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0007s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: cid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 22 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 25 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 35 行.
+NOTIC: [8] Undefined variable: action F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 39 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 57 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 59 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 68 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 74 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-09-07T18:15:24+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/save.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0038s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id` FROM `lr_category` WHERE ( tid=1 AND name="呵呵" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 91 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `lr_category` (`tid`,`name`,`bz_1`,`concent`,`sort`,`addtime`) VALUES ('1','呵呵','UploadFiles/category/20170907/1504779324560391.jpg','','0','1504779324') [ RunTime:0.0364s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-09-07T18:15:25+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001419s ]
+
+[ 2017-09-07T18:15:27+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/set_tj.html?tj_id=1
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002350s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0041s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_category` SET `bz_2`='1' WHERE ( id=1 ) [ RunTime:0.0396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004509s ]
+
+[ 2017-09-07T18:15:29+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0035s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0008s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2017-09-07T18:15:30+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/set_tj.html?tj_id=2
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0036s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_category` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_category` SET `bz_2`='1' WHERE ( id=2 ) [ RunTime:0.0524s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-09-07T18:15:31+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0035s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0012s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0019s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002415s ]
+
+[ 2017-09-07T18:15:32+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/set_tj.html?tj_id=3
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0036s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_category` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `lr_category` SET `bz_2`='1' WHERE ( id=3 ) [ RunTime:0.1023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-09-07T18:15:33+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0068s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2017-09-07T18:15:58+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: cid F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 22 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 25 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 25 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 35 行.
+NOTIC: [8] Undefined variable: action F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 39 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 57 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 59 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 68 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 74 行.
+NOTIC: [8] Undefined variable: cate_info F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\73c7a683cbb0b15f5758475110550c36.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2017-09-07T18:16:04+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/save.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0057s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id` FROM `lr_category` WHERE ( tid=1 AND name="哈哈" ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\CategoryController.class.php 第 91 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `lr_category` (`tid`,`name`,`bz_1`,`concent`,`sort`,`addtime`) VALUES ('1','哈哈','UploadFiles/category/20170907/1504779364518845.jpg','','0','1504779364') [ RunTime:0.0621s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000988s ]
+
+[ 2017-09-07T18:16:06+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0034s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0008s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-09-07T18:16:20+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/set_tj.html?tj_id=4
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0039s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_category` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `lr_category` SET `bz_2`='1' WHERE ( id=4 ) [ RunTime:0.0427s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002623s ]
+
+[ 2017-09-07T18:16:22+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003659s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0078s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2`,`bz_4` FROM `lr_category` WHERE ( tid=0 )  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=2 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=3 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`tid`,`name`,`bz_2` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008451s ]
+
+[ 2017-09-07T18:20:44+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined variable: id F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 71 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 76 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 82 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 88 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 98 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 104 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 105 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 109 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 112 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 119 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 122 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 129 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 138 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 144 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 150 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 156 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-09-07T18:21:57+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/add.html?id=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0041s ]
+NOTIC: [8] Undefined index: oldurl F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 81 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' F:\phpStudy\WWW\minibeilikaishop\App\Ht\Controller\VideoController.class.php 第 92 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\phpStudy\WWW\minibeilikaishop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `lr_video` (`name`,`digest`,`addtime`,`content`,`pro_id`,`video`,`type`,`sort`,`visit`,`renqi`,`photo`) VALUES ('哈哈哈','嘻嘻嘻嘻嘻','1504779717','','2','','0','0','0','0','UploadFiles/videoimg/20170907/1504779717487611.jpg') [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2017-09-07T18:21:58+08:00 ] ::1 /minibeilikaishop/index.php/Ht/Video/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minibeilikaishop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+SQL: SHOW COLUMNS FROM `lr_video` [ RunTime:0.0090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined variable: id F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 71 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 76 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 82 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 88 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 98 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 104 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 105 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 109 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 112 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 119 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 122 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 129 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 138 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 144 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 150 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 156 行.
+NOTIC: [8] Undefined variable: v F:\phpStudy\WWW\minibeilikaishop\App\Runtime\Cache\Ht\33468d5e4f42258c0f6c4f645201cb02.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000845s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
