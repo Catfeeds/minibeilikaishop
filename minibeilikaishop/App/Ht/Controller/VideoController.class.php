@@ -78,7 +78,7 @@ class VideoController extends PublicController{
 			$array['addtime']=time();
 			$array['content']=$post['content'];
 			$array['pro_id']=$post['pro_id'];
-			$array['video']=$post['oldurl'] ? $post['oldurl'] : '';
+			$array['video']=$post['video'] ? $post['video'] : '';
 			$array['type']=$post['type'];
 			$array['sort']=$post['sort'];
 			$array['visit']=$post['visit'];
